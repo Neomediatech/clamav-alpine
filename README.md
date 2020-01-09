@@ -1,4 +1,5 @@
-# clamav-alpine
+## Use [Ubuntu version](https://github.com/Neomediatech/clamav) instead of this repo
+
 Dockerized version of clamav daemon, based on Alpine Linux
 
 ## Usage
